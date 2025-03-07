@@ -3,7 +3,7 @@
 This is an automatic installer for CS Skywars.
 
 Features: 
-- Checks for the latest release version
+- Check for the latest release version
 - Download this version to the mods folder
 - Remove unnecessary other mods
 - Help with installing Forge & Optifine
